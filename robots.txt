@@ -1,0 +1,9 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /tools/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /pictures/
+Sitemap: http://citadr.com/sitemap.xml
