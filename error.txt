@@ -1,0 +1,11 @@
+﻿Inicio: 11/11/2014 7:39
+
+Conectado a citadr.
+historiaParte4.php - con errores - Se ha producido Un error FTP - no se puede colocar historiaParte4.php.  No hay suficiente espacio en disco en el servidor para realizar esta acción.
+
+Actividad de archivo incompleta. No se completaron 1 archivos o carpetas.
+
+Archivos con errores: 1
+historiaParte4.php
+
+Fin: 11/11/2014 7:39
