@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.citadr.com/</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/index.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/about.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/registrar.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/registrarDr2.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/contact.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/login.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/equipomedico.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/recuperar.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/nuevoUsuario.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.citadr.com/reservarCita.php</loc>
+  <lastmod>2015-01-03T21:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
